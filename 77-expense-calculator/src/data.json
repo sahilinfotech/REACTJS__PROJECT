@@ -1,0 +1,26 @@
+[
+    {
+        "id": "eid1",
+        "date": "2020-10-05",
+        "title": "BIKE EMI",
+        "amount": 522.45
+    },
+    {
+        "id": "eid2",
+        "date": "2021-05-08",
+        "title": "TV",
+        "amount": 724.88
+    },
+    {
+        "id": "eid3",
+        "date": "2021-12-10",
+        "title": "PHONE",
+        "amount": 122.50
+    },
+    {
+        "id": "eid4",
+        "date": "2020-12-24",
+        "title": "B-DAY PARTY",
+        "amount": 300
+    }
+]
